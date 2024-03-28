@@ -37,7 +37,8 @@ Evaluating risk against potential returns is essential for informed investment s
 Analyzing dividend history provides insights into a company's stability and shareholder value.
 ### Company Performance: 
 Assessing company performance aids in identifying strong investment opportunities.
-### Investor Sentiment: Understanding investor sentiment helps in gauging market trends and sentiment-driven price movements.
+### Investor Sentiment:
+Understanding investor sentiment helps in gauging market trends and sentiment-driven price movements.
 ### Earnings Stability:
 Consistent earnings stability indicates the financial health and sustainability of a company.
 ### Amazon’s Dominance and Google’s Relative Position:
